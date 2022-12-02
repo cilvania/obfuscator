@@ -1,0 +1,1 @@
+print("LYNX_PROTECT|Hello world!")
